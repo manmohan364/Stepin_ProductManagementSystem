@@ -1,5 +1,5 @@
 PROJ_NAME = ProductManagement
-SRC = promain.c\
+SRC = Product_main.c\
 src/add.c\
 src/delete.c\
 src/edit.c\
